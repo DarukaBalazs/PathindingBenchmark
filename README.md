@@ -61,8 +61,8 @@ The benchmark follows a strict lifecycle to ensure fair and stable measurements:
 - 4-directional and diagonal movement
 - Identical start–goal pairs across algorithms
 
-![Random Grid Benchmark](img_random_grid.png)
-![Maze Benchmark](img_maze_grid.png)
+![Random Grid Benchmark](Images/5_Maze_vs_Random_NoDiag.png)
+![Maze Benchmark](9000_Maze_100x100_corner_NoDiag_Dijkstra.bmp)
 
 ---
 
