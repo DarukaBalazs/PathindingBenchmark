@@ -62,7 +62,7 @@ The benchmark follows a strict lifecycle to ensure fair and stable measurements:
 - Identical start–goal pairs across algorithms
 
 ![Random Grid Benchmark](Images/5_Maze_vs_Random_NoDiag.png)
-![Maze Benchmark](9000_Maze_100x100_corner_NoDiag_Dijkstra.bmp)
+![Maze Benchmark](Images/9000_Maze_100x100_corner_NoDiag_Dijkstra.bmp)
 
 ---
 
@@ -76,7 +76,7 @@ The benchmark follows a strict lifecycle to ensure fair and stable measurements:
 | Weighted A*    | ~1.38 ms | ~513×               |
 | JPS            | ~2.05 ms | ~346×               |
 
-![Runtime Comparison](img_runtime.png)
+![Runtime Comparison](Images/S1_Scalability_Time.png)
 
 ---
 
@@ -88,7 +88,7 @@ The benchmark follows a strict lifecycle to ensure fair and stable measurements:
 | Weighted A*| ~1 MB            |
 | JPS        | ~1 MB            |
 
-![Memory Usage](img_memory.png)
+![Memory Usage](Images/S3_Memory_Usage.png)
 
 Dijkstra scales poorly due to large `Dictionary` and `HashSet` usage, while JPS and A* drastically reduce heap pressure.
 
@@ -102,7 +102,7 @@ Dijkstra scales poorly due to large `Dictionary` and `HashSet` usage, while JPS 
 | Weighted A*| ~895           |
 | JPS        | ~663           |
 
-![Expansions](img_expansions.png)
+![Expansions](Images/3_Expansions_LogScale.png)
 
 Speedups are driven by **eliminating unnecessary work**, not micro-optimizations.
 
@@ -127,8 +127,6 @@ Weighted A* sacrifices minimal path quality for orders-of-magnitude performance 
 - Custom binary heap (`MinPriorityQueue`)
 - Pluggable heuristics (Manhattan, Euclidean, Chebyshev)
 - Structured `Result` object with metrics
-
-![Architecture Diagram](img_architecture.png)
 
 ---
 
