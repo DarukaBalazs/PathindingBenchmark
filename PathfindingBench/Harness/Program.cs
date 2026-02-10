@@ -57,20 +57,13 @@ namespace HarnessApp
             {
                 foreach (var density in densities)
                 {
-                    // Közös Seed generálása ehhez a pároshoz
-                    // Így a "NoDiag" és a "Diag" verzió akadályai PONTSAN ugyanazok lesznek 
-                    // azonos 'run' index esetén.
                     int pairSeedCorner = masterRng.Next();
                     int pairSeedRandom = masterRng.Next();
 
-                    // ----------------------------------------------------------
-                    // 1) Corner -> Corner (NoDiag vs Diag)
-                    // ----------------------------------------------------------
                     var start = new GridNode(0, 0);
                     var goal = new GridNode(w - 1, h - 1);
                     var cfg = new PathfinderConfig { WeightW = 1.2, TieBreakLowG = true };
 
-                    // A: Verzió - Nincs átlós (JPS nem fut)
                     list.Add(new ScenarioConfig
                     {
                         Name = $"{scenarioId}_{w}x{h}_dens{density:0.00}_corner_NoDiag",
@@ -86,7 +79,6 @@ namespace HarnessApp
                         PathfinderConfig = cfg
                     });
 
-                    // B: Verzió - Van átlós (JPS fut)
                     list.Add(new ScenarioConfig
                     {
                         Name = $"{scenarioId}_{w}x{h}_dens{density:0.00}_corner_Diag",
@@ -94,8 +86,8 @@ namespace HarnessApp
                         Height = h,
                         ObstacleDensity = density,
                         MapKind = MapKind.Random,
-                        AllowDiagonal = true,  // <--- ENGEDJÜK
-                        Seed = pairSeedCorner, // UGYANAZ A SEED
+                        AllowDiagonal = true,  
+                        Seed = pairSeedCorner, 
                         Start = start,
                         Goal = goal,
                         Repetitions = repetitions,
@@ -103,15 +95,11 @@ namespace HarnessApp
                     });
                     scenarioId++;
 
-                    // ----------------------------------------------------------
-                    // 2) Random -> Random (NoDiag vs Diag)
-                    // ----------------------------------------------------------
                     var rngLocal = new Random(pairSeedRandom);
                     var rStart = new GridNode(rngLocal.Next(0, w), rngLocal.Next(0, h));
                     var rGoal = new GridNode(rngLocal.Next(0, w), rngLocal.Next(0, h));
                     while (rStart.Equals(rGoal)) rGoal = new GridNode(rngLocal.Next(0, w), rngLocal.Next(0, h));
 
-                    // A: Verzió - Nincs átlós
                     list.Add(new ScenarioConfig
                     {
                         Name = $"{scenarioId}_{w}x{h}_dens{density:0.00}_random_NoDiag",
@@ -127,7 +115,6 @@ namespace HarnessApp
                         PathfinderConfig = cfg
                     });
 
-                    // B: Verzió - Van átlós
                     list.Add(new ScenarioConfig
                     {
                         Name = $"{scenarioId}_{w}x{h}_dens{density:0.00}_random_Diag",
@@ -146,7 +133,6 @@ namespace HarnessApp
                 }
             }
 
-            // --- MAZE SCENARIOS (Ezeknél is megcsináljuk a párosítást) ---
             var mazeSizes = new (int w, int h)[] { (100, 100), (512, 512) };
             int mazeScenarioId = 9000;
 
@@ -155,8 +141,6 @@ namespace HarnessApp
                 int pairSeedCorner = masterRng.Next();
                 int pairSeedRandom = masterRng.Next();
                 var cfg = new PathfinderConfig { WeightW = 1.2, TieBreakLowG = true };
-
-                // Maze Corner
                 var start = new GridNode(1, 1);
                 var goal = new GridNode(w - 2, h - 2);
 
@@ -176,7 +160,6 @@ namespace HarnessApp
 
                 mazeScenarioId++;
 
-                // Maze Random Endpoints
                 var rngLocal = new Random(pairSeedRandom);
                 var rStart = new GridNode(rngLocal.Next(1, w - 1), rngLocal.Next(1, h - 1));
                 var rGoal = new GridNode(rngLocal.Next(1, w - 1), rngLocal.Next(1, h - 1));

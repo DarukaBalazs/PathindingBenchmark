@@ -1,113 +1,113 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\User\\OneDrive - Eotvos Lorand Tudomanyegyetem Informatikai Kar\\2025_2026_1\\TOSZ\\PathfindingBenchmark\\PathfindingBench\\",
+  "WorkspaceRootPath": "C:\\Projects\\GithubRepo\\PathindingBenchmark\\PathfindingBench\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{28126878-CBA3-434F-94F9-2554A12C41A9}|Harness\\Harness.csproj|c:\\users\\user\\onedrive - eotvos lorand tudomanyegyetem informatikai kar\\2025_2026_1\\tosz\\pathfindingbenchmark\\pathfindingbench\\harness\\scenario\\scenarioconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{28126878-CBA3-434F-94F9-2554A12C41A9}|Harness\\Harness.csproj|solutionrelative:harness\\scenario\\scenarioconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{28126878-CBA3-434F-94F9-2554A12C41A9}|Harness\\Harness.csproj|c:\\users\\user\\onedrive - eotvos lorand tudomanyegyetem informatikai kar\\2025_2026_1\\tosz\\pathfindingbenchmark\\pathfindingbench\\harness\\scenario\\scenariogenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{28126878-CBA3-434F-94F9-2554A12C41A9}|Harness\\Harness.csproj|solutionrelative:harness\\scenario\\scenariogenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{28126878-CBA3-434F-94F9-2554A12C41A9}|Harness\\Harness.csproj|c:\\users\\user\\onedrive - eotvos lorand tudomanyegyetem informatikai kar\\2025_2026_1\\tosz\\pathfindingbenchmark\\pathfindingbench\\harness\\output\\mapvisualizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{28126878-CBA3-434F-94F9-2554A12C41A9}|Harness\\Harness.csproj|solutionrelative:harness\\output\\mapvisualizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{28126878-CBA3-434F-94F9-2554A12C41A9}|Harness\\Harness.csproj|c:\\users\\user\\onedrive - eotvos lorand tudomanyegyetem informatikai kar\\2025_2026_1\\tosz\\pathfindingbenchmark\\pathfindingbench\\harness\\output\\csvresultwriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{28126878-CBA3-434F-94F9-2554A12C41A9}|Harness\\Harness.csproj|solutionrelative:harness\\output\\csvresultwriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{28126878-CBA3-434F-94F9-2554A12C41A9}|Harness\\Harness.csproj|c:\\users\\user\\onedrive - eotvos lorand tudomanyegyetem informatikai kar\\2025_2026_1\\tosz\\pathfindingbenchmark\\pathfindingbench\\harness\\algorithms\\algorithmfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{28126878-CBA3-434F-94F9-2554A12C41A9}|Harness\\Harness.csproj|solutionrelative:harness\\algorithms\\algorithmfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{19E9E171-4557-4F39-93B4-3F5CA63104F4}|src\\src.csproj|c:\\users\\user\\onedrive - eotvos lorand tudomanyegyetem informatikai kar\\2025_2026_1\\tosz\\pathfindingbenchmark\\pathfindingbench\\src\\core\\utils\\stopwatchext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{19E9E171-4557-4F39-93B4-3F5CA63104F4}|src\\src.csproj|solutionrelative:src\\core\\utils\\stopwatchext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{19E9E171-4557-4F39-93B4-3F5CA63104F4}|src\\src.csproj|c:\\users\\user\\onedrive - eotvos lorand tudomanyegyetem informatikai kar\\2025_2026_1\\tosz\\pathfindingbenchmark\\pathfindingbench\\src\\core\\utils\\randomseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{19E9E171-4557-4F39-93B4-3F5CA63104F4}|src\\src.csproj|solutionrelative:src\\core\\utils\\randomseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{19E9E171-4557-4F39-93B4-3F5CA63104F4}|src\\src.csproj|c:\\users\\user\\onedrive - eotvos lorand tudomanyegyetem informatikai kar\\2025_2026_1\\tosz\\pathfindingbenchmark\\pathfindingbench\\src\\core\\models\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{19E9E171-4557-4F39-93B4-3F5CA63104F4}|src\\src.csproj|solutionrelative:src\\core\\models\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{19E9E171-4557-4F39-93B4-3F5CA63104F4}|src\\src.csproj|c:\\users\\user\\onedrive - eotvos lorand tudomanyegyetem informatikai kar\\2025_2026_1\\tosz\\pathfindingbenchmark\\pathfindingbench\\src\\core\\models\\pathfinderconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{19E9E171-4557-4F39-93B4-3F5CA63104F4}|src\\src.csproj|solutionrelative:src\\core\\models\\pathfinderconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{19E9E171-4557-4F39-93B4-3F5CA63104F4}|src\\src.csproj|c:\\users\\user\\onedrive - eotvos lorand tudomanyegyetem informatikai kar\\2025_2026_1\\tosz\\pathfindingbenchmark\\pathfindingbench\\src\\core\\interfaces\\ipathfinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{19E9E171-4557-4F39-93B4-3F5CA63104F4}|src\\src.csproj|solutionrelative:src\\core\\interfaces\\ipathfinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{19E9E171-4557-4F39-93B4-3F5CA63104F4}|src\\src.csproj|c:\\users\\user\\onedrive - eotvos lorand tudomanyegyetem informatikai kar\\2025_2026_1\\tosz\\pathfindingbenchmark\\pathfindingbench\\src\\core\\interfaces\\igrid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{19E9E171-4557-4F39-93B4-3F5CA63104F4}|src\\src.csproj|solutionrelative:src\\core\\interfaces\\igrid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{19E9E171-4557-4F39-93B4-3F5CA63104F4}|src\\src.csproj|c:\\users\\user\\onedrive - eotvos lorand tudomanyegyetem informatikai kar\\2025_2026_1\\tosz\\pathfindingbenchmark\\pathfindingbench\\src\\core\\interfaces\\igraph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{19E9E171-4557-4F39-93B4-3F5CA63104F4}|src\\src.csproj|solutionrelative:src\\core\\interfaces\\igraph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{19E9E171-4557-4F39-93B4-3F5CA63104F4}|src\\src.csproj|c:\\users\\user\\onedrive - eotvos lorand tudomanyegyetem informatikai kar\\2025_2026_1\\tosz\\pathfindingbenchmark\\pathfindingbench\\src\\core\\heuristics\\zeroheuristics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{19E9E171-4557-4F39-93B4-3F5CA63104F4}|src\\src.csproj|solutionrelative:src\\core\\heuristics\\zeroheuristics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{19E9E171-4557-4F39-93B4-3F5CA63104F4}|src\\src.csproj|c:\\users\\user\\onedrive - eotvos lorand tudomanyegyetem informatikai kar\\2025_2026_1\\tosz\\pathfindingbenchmark\\pathfindingbench\\src\\core\\heuristics\\manhattan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{19E9E171-4557-4F39-93B4-3F5CA63104F4}|src\\src.csproj|solutionrelative:src\\core\\heuristics\\manhattan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{19E9E171-4557-4F39-93B4-3F5CA63104F4}|src\\src.csproj|c:\\users\\user\\onedrive - eotvos lorand tudomanyegyetem informatikai kar\\2025_2026_1\\tosz\\pathfindingbenchmark\\pathfindingbench\\src\\core\\heuristics\\euclidean.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{19E9E171-4557-4F39-93B4-3F5CA63104F4}|src\\src.csproj|solutionrelative:src\\core\\heuristics\\euclidean.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{19E9E171-4557-4F39-93B4-3F5CA63104F4}|src\\src.csproj|c:\\users\\user\\onedrive - eotvos lorand tudomanyegyetem informatikai kar\\2025_2026_1\\tosz\\pathfindingbenchmark\\pathfindingbench\\src\\core\\grids\\gridnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{19E9E171-4557-4F39-93B4-3F5CA63104F4}|src\\src.csproj|solutionrelative:src\\core\\grids\\gridnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{19E9E171-4557-4F39-93B4-3F5CA63104F4}|src\\src.csproj|c:\\users\\user\\onedrive - eotvos lorand tudomanyegyetem informatikai kar\\2025_2026_1\\tosz\\pathfindingbenchmark\\pathfindingbench\\src\\core\\grids\\gridmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{19E9E171-4557-4F39-93B4-3F5CA63104F4}|src\\src.csproj|solutionrelative:src\\core\\grids\\gridmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{19E9E171-4557-4F39-93B4-3F5CA63104F4}|src\\src.csproj|c:\\users\\user\\onedrive - eotvos lorand tudomanyegyetem informatikai kar\\2025_2026_1\\tosz\\pathfindingbenchmark\\pathfindingbench\\src\\algorithms\\jpspathfinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{19E9E171-4557-4F39-93B4-3F5CA63104F4}|src\\src.csproj|solutionrelative:src\\algorithms\\jpspathfinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{19E9E171-4557-4F39-93B4-3F5CA63104F4}|src\\src.csproj|c:\\users\\user\\onedrive - eotvos lorand tudomanyegyetem informatikai kar\\2025_2026_1\\tosz\\pathfindingbenchmark\\pathfindingbench\\src\\algorithms\\dijkstrapathfinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{19E9E171-4557-4F39-93B4-3F5CA63104F4}|src\\src.csproj|solutionrelative:src\\algorithms\\dijkstrapathfinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{19E9E171-4557-4F39-93B4-3F5CA63104F4}|src\\src.csproj|c:\\users\\user\\onedrive - eotvos lorand tudomanyegyetem informatikai kar\\2025_2026_1\\tosz\\pathfindingbenchmark\\pathfindingbench\\src\\algorithms\\weightedastar\\weightedastar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{19E9E171-4557-4F39-93B4-3F5CA63104F4}|src\\src.csproj|c:\\projects\\githubrepo\\pathindingbenchmark\\pathfindingbench\\src\\algorithms\\weightedastar\\weightedastar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{19E9E171-4557-4F39-93B4-3F5CA63104F4}|src\\src.csproj|solutionrelative:src\\algorithms\\weightedastar\\weightedastar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{28126878-CBA3-434F-94F9-2554A12C41A9}|Harness\\Harness.csproj|c:\\users\\user\\onedrive - eotvos lorand tudomanyegyetem informatikai kar\\2025_2026_1\\tosz\\pathfindingbenchmark\\pathfindingbench\\harness\\algorithms\\algorithmkind.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{28126878-CBA3-434F-94F9-2554A12C41A9}|Harness\\Harness.csproj|solutionrelative:harness\\algorithms\\algorithmkind.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{19E9E171-4557-4F39-93B4-3F5CA63104F4}|src\\src.csproj|c:\\projects\\githubrepo\\pathindingbenchmark\\pathfindingbench\\src\\algorithms\\dijkstrapathfinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19E9E171-4557-4F39-93B4-3F5CA63104F4}|src\\src.csproj|solutionrelative:src\\algorithms\\dijkstrapathfinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{28126878-CBA3-434F-94F9-2554A12C41A9}|Harness\\Harness.csproj|c:\\users\\user\\onedrive - eotvos lorand tudomanyegyetem informatikai kar\\2025_2026_1\\tosz\\pathfindingbenchmark\\pathfindingbench\\harness\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{28126878-CBA3-434F-94F9-2554A12C41A9}|Harness\\Harness.csproj|solutionrelative:harness\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{28126878-CBA3-434F-94F9-2554A12C41A9}|Harness\\Harness.csproj|c:\\users\\user\\onedrive - eotvos lorand tudomanyegyetem informatikai kar\\2025_2026_1\\tosz\\pathfindingbenchmark\\pathfindingbench\\harness\\benchmarkrunner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{28126878-CBA3-434F-94F9-2554A12C41A9}|Harness\\Harness.csproj|c:\\projects\\githubrepo\\pathindingbenchmark\\pathfindingbench\\harness\\benchmarkrunner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{28126878-CBA3-434F-94F9-2554A12C41A9}|Harness\\Harness.csproj|solutionrelative:harness\\benchmarkrunner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{28126878-CBA3-434F-94F9-2554A12C41A9}|Harness\\Harness.csproj|c:\\users\\user\\onedrive - eotvos lorand tudomanyegyetem informatikai kar\\2025_2026_1\\tosz\\pathfindingbenchmark\\pathfindingbench\\harness\\model\\benchmarkresultrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{28126878-CBA3-434F-94F9-2554A12C41A9}|Harness\\Harness.csproj|c:\\projects\\githubrepo\\pathindingbenchmark\\pathfindingbench\\harness\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28126878-CBA3-434F-94F9-2554A12C41A9}|Harness\\Harness.csproj|solutionrelative:harness\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28126878-CBA3-434F-94F9-2554A12C41A9}|Harness\\Harness.csproj|c:\\projects\\githubrepo\\pathindingbenchmark\\pathfindingbench\\harness\\output\\csvresultwriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28126878-CBA3-434F-94F9-2554A12C41A9}|Harness\\Harness.csproj|solutionrelative:harness\\output\\csvresultwriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28126878-CBA3-434F-94F9-2554A12C41A9}|Harness\\Harness.csproj|c:\\projects\\githubrepo\\pathindingbenchmark\\pathfindingbench\\harness\\scenario\\scenarioconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28126878-CBA3-434F-94F9-2554A12C41A9}|Harness\\Harness.csproj|solutionrelative:harness\\scenario\\scenarioconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28126878-CBA3-434F-94F9-2554A12C41A9}|Harness\\Harness.csproj|c:\\projects\\githubrepo\\pathindingbenchmark\\pathfindingbench\\harness\\scenario\\scenariogenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28126878-CBA3-434F-94F9-2554A12C41A9}|Harness\\Harness.csproj|solutionrelative:harness\\scenario\\scenariogenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28126878-CBA3-434F-94F9-2554A12C41A9}|Harness\\Harness.csproj|c:\\projects\\githubrepo\\pathindingbenchmark\\pathfindingbench\\harness\\output\\mapvisualizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28126878-CBA3-434F-94F9-2554A12C41A9}|Harness\\Harness.csproj|solutionrelative:harness\\output\\mapvisualizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28126878-CBA3-434F-94F9-2554A12C41A9}|Harness\\Harness.csproj|c:\\projects\\githubrepo\\pathindingbenchmark\\pathfindingbench\\harness\\algorithms\\algorithmfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28126878-CBA3-434F-94F9-2554A12C41A9}|Harness\\Harness.csproj|solutionrelative:harness\\algorithms\\algorithmfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19E9E171-4557-4F39-93B4-3F5CA63104F4}|src\\src.csproj|c:\\projects\\githubrepo\\pathindingbenchmark\\pathfindingbench\\src\\core\\utils\\stopwatchext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19E9E171-4557-4F39-93B4-3F5CA63104F4}|src\\src.csproj|solutionrelative:src\\core\\utils\\stopwatchext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19E9E171-4557-4F39-93B4-3F5CA63104F4}|src\\src.csproj|c:\\projects\\githubrepo\\pathindingbenchmark\\pathfindingbench\\src\\core\\utils\\randomseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19E9E171-4557-4F39-93B4-3F5CA63104F4}|src\\src.csproj|solutionrelative:src\\core\\utils\\randomseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19E9E171-4557-4F39-93B4-3F5CA63104F4}|src\\src.csproj|c:\\projects\\githubrepo\\pathindingbenchmark\\pathfindingbench\\src\\core\\models\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19E9E171-4557-4F39-93B4-3F5CA63104F4}|src\\src.csproj|solutionrelative:src\\core\\models\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19E9E171-4557-4F39-93B4-3F5CA63104F4}|src\\src.csproj|c:\\projects\\githubrepo\\pathindingbenchmark\\pathfindingbench\\src\\core\\models\\pathfinderconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19E9E171-4557-4F39-93B4-3F5CA63104F4}|src\\src.csproj|solutionrelative:src\\core\\models\\pathfinderconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19E9E171-4557-4F39-93B4-3F5CA63104F4}|src\\src.csproj|c:\\projects\\githubrepo\\pathindingbenchmark\\pathfindingbench\\src\\core\\interfaces\\ipathfinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19E9E171-4557-4F39-93B4-3F5CA63104F4}|src\\src.csproj|solutionrelative:src\\core\\interfaces\\ipathfinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19E9E171-4557-4F39-93B4-3F5CA63104F4}|src\\src.csproj|c:\\projects\\githubrepo\\pathindingbenchmark\\pathfindingbench\\src\\core\\interfaces\\igrid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19E9E171-4557-4F39-93B4-3F5CA63104F4}|src\\src.csproj|solutionrelative:src\\core\\interfaces\\igrid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19E9E171-4557-4F39-93B4-3F5CA63104F4}|src\\src.csproj|c:\\projects\\githubrepo\\pathindingbenchmark\\pathfindingbench\\src\\core\\interfaces\\igraph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19E9E171-4557-4F39-93B4-3F5CA63104F4}|src\\src.csproj|solutionrelative:src\\core\\interfaces\\igraph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19E9E171-4557-4F39-93B4-3F5CA63104F4}|src\\src.csproj|c:\\projects\\githubrepo\\pathindingbenchmark\\pathfindingbench\\src\\core\\heuristics\\zeroheuristics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19E9E171-4557-4F39-93B4-3F5CA63104F4}|src\\src.csproj|solutionrelative:src\\core\\heuristics\\zeroheuristics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19E9E171-4557-4F39-93B4-3F5CA63104F4}|src\\src.csproj|c:\\projects\\githubrepo\\pathindingbenchmark\\pathfindingbench\\src\\core\\heuristics\\manhattan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19E9E171-4557-4F39-93B4-3F5CA63104F4}|src\\src.csproj|solutionrelative:src\\core\\heuristics\\manhattan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19E9E171-4557-4F39-93B4-3F5CA63104F4}|src\\src.csproj|c:\\projects\\githubrepo\\pathindingbenchmark\\pathfindingbench\\src\\core\\heuristics\\euclidean.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19E9E171-4557-4F39-93B4-3F5CA63104F4}|src\\src.csproj|solutionrelative:src\\core\\heuristics\\euclidean.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19E9E171-4557-4F39-93B4-3F5CA63104F4}|src\\src.csproj|c:\\projects\\githubrepo\\pathindingbenchmark\\pathfindingbench\\src\\core\\grids\\gridnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19E9E171-4557-4F39-93B4-3F5CA63104F4}|src\\src.csproj|solutionrelative:src\\core\\grids\\gridnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19E9E171-4557-4F39-93B4-3F5CA63104F4}|src\\src.csproj|c:\\projects\\githubrepo\\pathindingbenchmark\\pathfindingbench\\src\\core\\grids\\gridmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19E9E171-4557-4F39-93B4-3F5CA63104F4}|src\\src.csproj|solutionrelative:src\\core\\grids\\gridmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19E9E171-4557-4F39-93B4-3F5CA63104F4}|src\\src.csproj|c:\\projects\\githubrepo\\pathindingbenchmark\\pathfindingbench\\src\\algorithms\\jpspathfinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19E9E171-4557-4F39-93B4-3F5CA63104F4}|src\\src.csproj|solutionrelative:src\\algorithms\\jpspathfinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28126878-CBA3-434F-94F9-2554A12C41A9}|Harness\\Harness.csproj|c:\\projects\\githubrepo\\pathindingbenchmark\\pathfindingbench\\harness\\algorithms\\algorithmkind.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28126878-CBA3-434F-94F9-2554A12C41A9}|Harness\\Harness.csproj|solutionrelative:harness\\algorithms\\algorithmkind.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28126878-CBA3-434F-94F9-2554A12C41A9}|Harness\\Harness.csproj|c:\\projects\\githubrepo\\pathindingbenchmark\\pathfindingbench\\harness\\model\\benchmarkresultrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{28126878-CBA3-434F-94F9-2554A12C41A9}|Harness\\Harness.csproj|solutionrelative:harness\\model\\benchmarkresultrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{19E9E171-4557-4F39-93B4-3F5CA63104F4}|src\\src.csproj|c:\\users\\user\\onedrive - eotvos lorand tudomanyegyetem informatikai kar\\2025_2026_1\\tosz\\pathfindingbenchmark\\pathfindingbench\\src\\algorithms\\weightedastar\\minpriorityqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{19E9E171-4557-4F39-93B4-3F5CA63104F4}|src\\src.csproj|c:\\projects\\githubrepo\\pathindingbenchmark\\pathfindingbench\\src\\algorithms\\weightedastar\\minpriorityqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{19E9E171-4557-4F39-93B4-3F5CA63104F4}|src\\src.csproj|solutionrelative:src\\algorithms\\weightedastar\\minpriorityqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{19E9E171-4557-4F39-93B4-3F5CA63104F4}|src\\src.csproj|c:\\users\\user\\onedrive - eotvos lorand tudomanyegyetem informatikai kar\\2025_2026_1\\tosz\\pathfindingbenchmark\\pathfindingbench\\src\\core\\interfaces\\iheuristic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{19E9E171-4557-4F39-93B4-3F5CA63104F4}|src\\src.csproj|c:\\projects\\githubrepo\\pathindingbenchmark\\pathfindingbench\\src\\core\\interfaces\\iheuristic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{19E9E171-4557-4F39-93B4-3F5CA63104F4}|src\\src.csproj|solutionrelative:src\\core\\interfaces\\iheuristic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{19E9E171-4557-4F39-93B4-3F5CA63104F4}|src\\src.csproj|c:\\users\\user\\onedrive - eotvos lorand tudomanyegyetem informatikai kar\\2025_2026_1\\tosz\\pathfindingbenchmark\\pathfindingbench\\src\\src.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{19E9E171-4557-4F39-93B4-3F5CA63104F4}|src\\src.csproj|c:\\projects\\githubrepo\\pathindingbenchmark\\pathfindingbench\\src\\src.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{19E9E171-4557-4F39-93B4-3F5CA63104F4}|src\\src.csproj|solutionrelative:src\\src.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
@@ -118,201 +118,197 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "MapVisualizer.cs",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive - Eotvos Lorand Tudomanyegyetem Informatikai Kar\\2025_2026_1\\TOSZ\\PathfindingBenchmark\\PathfindingBench\\Harness\\Output\\MapVisualizer.cs",
+              "DocumentMoniker": "C:\\Projects\\GithubRepo\\PathindingBenchmark\\PathfindingBench\\Harness\\Output\\MapVisualizer.cs",
               "RelativeDocumentMoniker": "Harness\\Output\\MapVisualizer.cs",
-              "ToolTip": "C:\\Users\\User\\OneDrive - Eotvos Lorand Tudomanyegyetem Informatikai Kar\\2025_2026_1\\TOSZ\\PathfindingBenchmark\\PathfindingBench\\Harness\\Output\\MapVisualizer.cs",
+              "ToolTip": "C:\\Projects\\GithubRepo\\PathindingBenchmark\\PathfindingBench\\Harness\\Output\\MapVisualizer.cs",
               "RelativeToolTip": "Harness\\Output\\MapVisualizer.cs",
               "ViewState": "AgIAADoAAAAAAAAAAAAgwEYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-09T19:26:07.476Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-09T19:26:07.476Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 21,
               "Title": "JpsPathfinder.cs",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive - Eotvos Lorand Tudomanyegyetem Informatikai Kar\\2025_2026_1\\TOSZ\\PathfindingBenchmark\\PathfindingBench\\src\\Algorithms\\JpsPathfinder.cs",
+              "DocumentMoniker": "C:\\Projects\\GithubRepo\\PathindingBenchmark\\PathfindingBench\\src\\Algorithms\\JpsPathfinder.cs",
               "RelativeDocumentMoniker": "src\\Algorithms\\JpsPathfinder.cs",
-              "ToolTip": "C:\\Users\\User\\OneDrive - Eotvos Lorand Tudomanyegyetem Informatikai Kar\\2025_2026_1\\TOSZ\\PathfindingBenchmark\\PathfindingBench\\src\\Algorithms\\JpsPathfinder.cs",
+              "ToolTip": "C:\\Projects\\GithubRepo\\PathindingBenchmark\\PathfindingBench\\src\\Algorithms\\JpsPathfinder.cs",
               "RelativeToolTip": "src\\Algorithms\\JpsPathfinder.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAHQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-09T19:08:20.88Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-09T19:08:20.88Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 0,
               "Title": "WeightedAStar.cs",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive - Eotvos Lorand Tudomanyegyetem Informatikai Kar\\2025_2026_1\\TOSZ\\PathfindingBenchmark\\PathfindingBench\\src\\Algorithms\\WeightedAStar\\WeightedAStar.cs",
+              "DocumentMoniker": "C:\\Projects\\GithubRepo\\PathindingBenchmark\\PathfindingBench\\src\\Algorithms\\WeightedAStar\\WeightedAStar.cs",
               "RelativeDocumentMoniker": "src\\Algorithms\\WeightedAStar\\WeightedAStar.cs",
-              "ToolTip": "C:\\Users\\User\\OneDrive - Eotvos Lorand Tudomanyegyetem Informatikai Kar\\2025_2026_1\\TOSZ\\PathfindingBenchmark\\PathfindingBench\\src\\Algorithms\\WeightedAStar\\WeightedAStar.cs",
+              "ToolTip": "C:\\Projects\\GithubRepo\\PathindingBenchmark\\PathfindingBench\\src\\Algorithms\\WeightedAStar\\WeightedAStar.cs",
               "RelativeToolTip": "src\\Algorithms\\WeightedAStar\\WeightedAStar.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAuwC8AAAATAAAAAAAAAA==",
+              "ViewState": "AgIAALcAAAAAAAAAAAAAAC8AAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-13T11:44:26.174Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 1,
               "Title": "DijkstraPathfinder.cs",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive - Eotvos Lorand Tudomanyegyetem Informatikai Kar\\2025_2026_1\\TOSZ\\PathfindingBenchmark\\PathfindingBench\\src\\Algorithms\\DijkstraPathfinder.cs",
+              "DocumentMoniker": "C:\\Projects\\GithubRepo\\PathindingBenchmark\\PathfindingBench\\src\\Algorithms\\DijkstraPathfinder.cs",
               "RelativeDocumentMoniker": "src\\Algorithms\\DijkstraPathfinder.cs",
-              "ToolTip": "C:\\Users\\User\\OneDrive - Eotvos Lorand Tudomanyegyetem Informatikai Kar\\2025_2026_1\\TOSZ\\PathfindingBenchmark\\PathfindingBench\\src\\Algorithms\\DijkstraPathfinder.cs",
+              "ToolTip": "C:\\Projects\\GithubRepo\\PathindingBenchmark\\PathfindingBench\\src\\Algorithms\\DijkstraPathfinder.cs",
               "RelativeToolTip": "src\\Algorithms\\DijkstraPathfinder.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAACoAAAAAAAAAAAAYwCIAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-15T20:34:30.468Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 2,
               "Title": "BenchmarkRunner.cs",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive - Eotvos Lorand Tudomanyegyetem Informatikai Kar\\2025_2026_1\\TOSZ\\PathfindingBenchmark\\PathfindingBench\\Harness\\BenchmarkRunner.cs",
+              "DocumentMoniker": "C:\\Projects\\GithubRepo\\PathindingBenchmark\\PathfindingBench\\Harness\\BenchmarkRunner.cs",
               "RelativeDocumentMoniker": "Harness\\BenchmarkRunner.cs",
-              "ToolTip": "C:\\Users\\User\\OneDrive - Eotvos Lorand Tudomanyegyetem Informatikai Kar\\2025_2026_1\\TOSZ\\PathfindingBenchmark\\PathfindingBench\\Harness\\BenchmarkRunner.cs",
+              "ToolTip": "C:\\Projects\\GithubRepo\\PathindingBenchmark\\PathfindingBench\\Harness\\BenchmarkRunner.cs",
               "RelativeToolTip": "Harness\\BenchmarkRunner.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAwEkAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAANkAAAAAAAAAAAAowEkAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-15T21:15:41.698Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive - Eotvos Lorand Tudomanyegyetem Informatikai Kar\\2025_2026_1\\TOSZ\\PathfindingBenchmark\\PathfindingBench\\Harness\\Program.cs",
+              "DocumentMoniker": "C:\\Projects\\GithubRepo\\PathindingBenchmark\\PathfindingBench\\Harness\\Program.cs",
               "RelativeDocumentMoniker": "Harness\\Program.cs",
-              "ToolTip": "C:\\Users\\User\\OneDrive - Eotvos Lorand Tudomanyegyetem Informatikai Kar\\2025_2026_1\\TOSZ\\PathfindingBenchmark\\PathfindingBench\\Harness\\Program.cs",
+              "ToolTip": "C:\\Projects\\GithubRepo\\PathindingBenchmark\\PathfindingBench\\Harness\\Program.cs",
               "RelativeToolTip": "Harness\\Program.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAYwKEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-15T21:06:44.78Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "CsvResultWriter.cs",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive - Eotvos Lorand Tudomanyegyetem Informatikai Kar\\2025_2026_1\\TOSZ\\PathfindingBenchmark\\PathfindingBench\\Harness\\Output\\CsvResultWriter.cs",
+              "DocumentMoniker": "C:\\Projects\\GithubRepo\\PathindingBenchmark\\PathfindingBench\\Harness\\Output\\CsvResultWriter.cs",
               "RelativeDocumentMoniker": "Harness\\Output\\CsvResultWriter.cs",
-              "ToolTip": "C:\\Users\\User\\OneDrive - Eotvos Lorand Tudomanyegyetem Informatikai Kar\\2025_2026_1\\TOSZ\\PathfindingBenchmark\\PathfindingBench\\Harness\\Output\\CsvResultWriter.cs",
+              "ToolTip": "C:\\Projects\\GithubRepo\\PathindingBenchmark\\PathfindingBench\\Harness\\Output\\CsvResultWriter.cs",
               "RelativeToolTip": "Harness\\Output\\CsvResultWriter.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHwAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAkwBMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-15T21:10:42.313Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "ScenarioConfig.cs",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive - Eotvos Lorand Tudomanyegyetem Informatikai Kar\\2025_2026_1\\TOSZ\\PathfindingBenchmark\\PathfindingBench\\Harness\\Scenario\\ScenarioConfig.cs",
+              "DocumentMoniker": "C:\\Projects\\GithubRepo\\PathindingBenchmark\\PathfindingBench\\Harness\\Scenario\\ScenarioConfig.cs",
               "RelativeDocumentMoniker": "Harness\\Scenario\\ScenarioConfig.cs",
-              "ToolTip": "C:\\Users\\User\\OneDrive - Eotvos Lorand Tudomanyegyetem Informatikai Kar\\2025_2026_1\\TOSZ\\PathfindingBenchmark\\PathfindingBench\\Harness\\Scenario\\ScenarioConfig.cs",
+              "ToolTip": "C:\\Projects\\GithubRepo\\PathindingBenchmark\\PathfindingBench\\Harness\\Scenario\\ScenarioConfig.cs",
               "RelativeToolTip": "Harness\\Scenario\\ScenarioConfig.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAIwAYAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAwwBoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-15T21:11:32.047Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 20,
               "Title": "GridMap.cs",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive - Eotvos Lorand Tudomanyegyetem Informatikai Kar\\2025_2026_1\\TOSZ\\PathfindingBenchmark\\PathfindingBench\\src\\Core\\Grids\\GridMap.cs",
+              "DocumentMoniker": "C:\\Projects\\GithubRepo\\PathindingBenchmark\\PathfindingBench\\src\\Core\\Grids\\GridMap.cs",
               "RelativeDocumentMoniker": "src\\Core\\Grids\\GridMap.cs",
-              "ToolTip": "C:\\Users\\User\\OneDrive - Eotvos Lorand Tudomanyegyetem Informatikai Kar\\2025_2026_1\\TOSZ\\PathfindingBenchmark\\PathfindingBench\\src\\Core\\Grids\\GridMap.cs",
+              "ToolTip": "C:\\Projects\\GithubRepo\\PathindingBenchmark\\PathfindingBench\\src\\Core\\Grids\\GridMap.cs",
               "RelativeToolTip": "src\\Core\\Grids\\GridMap.cs",
               "ViewState": "AgIAADIAAAAAAAAAAAAAwDMAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T01:06:31.563Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-13T01:06:31.563Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "ScenarioGenerator.cs",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive - Eotvos Lorand Tudomanyegyetem Informatikai Kar\\2025_2026_1\\TOSZ\\PathfindingBenchmark\\PathfindingBench\\Harness\\Scenario\\ScenarioGenerator.cs",
+              "DocumentMoniker": "C:\\Projects\\GithubRepo\\PathindingBenchmark\\PathfindingBench\\Harness\\Scenario\\ScenarioGenerator.cs",
               "RelativeDocumentMoniker": "Harness\\Scenario\\ScenarioGenerator.cs",
-              "ToolTip": "C:\\Users\\User\\OneDrive - Eotvos Lorand Tudomanyegyetem Informatikai Kar\\2025_2026_1\\TOSZ\\PathfindingBenchmark\\PathfindingBench\\Harness\\Scenario\\ScenarioGenerator.cs",
+              "ToolTip": "C:\\Projects\\GithubRepo\\PathindingBenchmark\\PathfindingBench\\Harness\\Scenario\\ScenarioGenerator.cs",
               "RelativeToolTip": "Harness\\Scenario\\ScenarioGenerator.cs",
               "ViewState": "AgIAAIAAAAAAAAAAAAAwwJ0AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-15T21:12:59.589Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-15T21:12:59.589Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 17,
               "Title": "Manhattan.cs",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive - Eotvos Lorand Tudomanyegyetem Informatikai Kar\\2025_2026_1\\TOSZ\\PathfindingBenchmark\\PathfindingBench\\src\\Core\\Heuristics\\Manhattan.cs",
+              "DocumentMoniker": "C:\\Projects\\GithubRepo\\PathindingBenchmark\\PathfindingBench\\src\\Core\\Heuristics\\Manhattan.cs",
               "RelativeDocumentMoniker": "src\\Core\\Heuristics\\Manhattan.cs",
-              "ToolTip": "C:\\Users\\User\\OneDrive - Eotvos Lorand Tudomanyegyetem Informatikai Kar\\2025_2026_1\\TOSZ\\PathfindingBenchmark\\PathfindingBench\\src\\Core\\Heuristics\\Manhattan.cs",
+              "ToolTip": "C:\\Projects\\GithubRepo\\PathindingBenchmark\\PathfindingBench\\src\\Core\\Heuristics\\Manhattan.cs",
               "RelativeToolTip": "src\\Core\\Heuristics\\Manhattan.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T01:16:25.782Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-13T01:16:25.782Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 16,
               "Title": "ZeroHeuristics.cs",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive - Eotvos Lorand Tudomanyegyetem Informatikai Kar\\2025_2026_1\\TOSZ\\PathfindingBenchmark\\PathfindingBench\\src\\Core\\Heuristics\\ZeroHeuristics.cs",
+              "DocumentMoniker": "C:\\Projects\\GithubRepo\\PathindingBenchmark\\PathfindingBench\\src\\Core\\Heuristics\\ZeroHeuristics.cs",
               "RelativeDocumentMoniker": "src\\Core\\Heuristics\\ZeroHeuristics.cs",
-              "ToolTip": "C:\\Users\\User\\OneDrive - Eotvos Lorand Tudomanyegyetem Informatikai Kar\\2025_2026_1\\TOSZ\\PathfindingBenchmark\\PathfindingBench\\src\\Core\\Heuristics\\ZeroHeuristics.cs",
+              "ToolTip": "C:\\Projects\\GithubRepo\\PathindingBenchmark\\PathfindingBench\\src\\Core\\Heuristics\\ZeroHeuristics.cs",
               "RelativeToolTip": "src\\Core\\Heuristics\\ZeroHeuristics.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T01:17:46.105Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-13T01:17:46.105Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 18,
               "Title": "Euclidean.cs",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive - Eotvos Lorand Tudomanyegyetem Informatikai Kar\\2025_2026_1\\TOSZ\\PathfindingBenchmark\\PathfindingBench\\src\\Core\\Heuristics\\Euclidean.cs",
+              "DocumentMoniker": "C:\\Projects\\GithubRepo\\PathindingBenchmark\\PathfindingBench\\src\\Core\\Heuristics\\Euclidean.cs",
               "RelativeDocumentMoniker": "src\\Core\\Heuristics\\Euclidean.cs",
-              "ToolTip": "C:\\Users\\User\\OneDrive - Eotvos Lorand Tudomanyegyetem Informatikai Kar\\2025_2026_1\\TOSZ\\PathfindingBenchmark\\PathfindingBench\\src\\Core\\Heuristics\\Euclidean.cs",
+              "ToolTip": "C:\\Projects\\GithubRepo\\PathindingBenchmark\\PathfindingBench\\src\\Core\\Heuristics\\Euclidean.cs",
               "RelativeToolTip": "src\\Core\\Heuristics\\Euclidean.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T01:16:44.203Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-13T01:16:44.203Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "IGraph.cs",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive - Eotvos Lorand Tudomanyegyetem Informatikai Kar\\2025_2026_1\\TOSZ\\PathfindingBenchmark\\PathfindingBench\\src\\Core\\Interfaces\\IGraph.cs",
+              "DocumentMoniker": "C:\\Projects\\GithubRepo\\PathindingBenchmark\\PathfindingBench\\src\\Core\\Interfaces\\IGraph.cs",
               "RelativeDocumentMoniker": "src\\Core\\Interfaces\\IGraph.cs",
-              "ToolTip": "C:\\Users\\User\\OneDrive - Eotvos Lorand Tudomanyegyetem Informatikai Kar\\2025_2026_1\\TOSZ\\PathfindingBenchmark\\PathfindingBench\\src\\Core\\Interfaces\\IGraph.cs",
+              "ToolTip": "C:\\Projects\\GithubRepo\\PathindingBenchmark\\PathfindingBench\\src\\Core\\Interfaces\\IGraph.cs",
               "RelativeToolTip": "src\\Core\\Interfaces\\IGraph.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T00:34:57.623Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-13T00:34:57.623Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 25,
               "Title": "IHeuristic.cs",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive - Eotvos Lorand Tudomanyegyetem Informatikai Kar\\2025_2026_1\\TOSZ\\PathfindingBenchmark\\PathfindingBench\\src\\Core\\Interfaces\\IHeuristic.cs",
+              "DocumentMoniker": "C:\\Projects\\GithubRepo\\PathindingBenchmark\\PathfindingBench\\src\\Core\\Interfaces\\IHeuristic.cs",
               "RelativeDocumentMoniker": "src\\Core\\Interfaces\\IHeuristic.cs",
-              "ToolTip": "C:\\Users\\User\\OneDrive - Eotvos Lorand Tudomanyegyetem Informatikai Kar\\2025_2026_1\\TOSZ\\PathfindingBenchmark\\PathfindingBench\\src\\Core\\Interfaces\\IHeuristic.cs",
+              "ToolTip": "C:\\Projects\\GithubRepo\\PathindingBenchmark\\PathfindingBench\\src\\Core\\Interfaces\\IHeuristic.cs",
               "RelativeToolTip": "src\\Core\\Interfaces\\IHeuristic.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -320,102 +316,95 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "StopwatchExt.cs",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive - Eotvos Lorand Tudomanyegyetem Informatikai Kar\\2025_2026_1\\TOSZ\\PathfindingBenchmark\\PathfindingBench\\src\\Core\\Utils\\StopwatchExt.cs",
+              "DocumentMoniker": "C:\\Projects\\GithubRepo\\PathindingBenchmark\\PathfindingBench\\src\\Core\\Utils\\StopwatchExt.cs",
               "RelativeDocumentMoniker": "src\\Core\\Utils\\StopwatchExt.cs",
-              "ToolTip": "C:\\Users\\User\\OneDrive - Eotvos Lorand Tudomanyegyetem Informatikai Kar\\2025_2026_1\\TOSZ\\PathfindingBenchmark\\PathfindingBench\\src\\Core\\Utils\\StopwatchExt.cs",
+              "ToolTip": "C:\\Projects\\GithubRepo\\PathindingBenchmark\\PathfindingBench\\src\\Core\\Utils\\StopwatchExt.cs",
               "RelativeToolTip": "src\\Core\\Utils\\StopwatchExt.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAAA8AAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T01:19:07.103Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-13T01:19:07.103Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "RandomSeed.cs",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive - Eotvos Lorand Tudomanyegyetem Informatikai Kar\\2025_2026_1\\TOSZ\\PathfindingBenchmark\\PathfindingBench\\src\\Core\\Utils\\RandomSeed.cs",
+              "DocumentMoniker": "C:\\Projects\\GithubRepo\\PathindingBenchmark\\PathfindingBench\\src\\Core\\Utils\\RandomSeed.cs",
               "RelativeDocumentMoniker": "src\\Core\\Utils\\RandomSeed.cs",
-              "ToolTip": "C:\\Users\\User\\OneDrive - Eotvos Lorand Tudomanyegyetem Informatikai Kar\\2025_2026_1\\TOSZ\\PathfindingBenchmark\\PathfindingBench\\src\\Core\\Utils\\RandomSeed.cs",
+              "ToolTip": "C:\\Projects\\GithubRepo\\PathindingBenchmark\\PathfindingBench\\src\\Core\\Utils\\RandomSeed.cs",
               "RelativeToolTip": "src\\Core\\Utils\\RandomSeed.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T01:18:32.131Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-13T01:18:32.131Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 24,
               "Title": "MinPriorityQueue.cs",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive - Eotvos Lorand Tudomanyegyetem Informatikai Kar\\2025_2026_1\\TOSZ\\PathfindingBenchmark\\PathfindingBench\\src\\Algorithms\\WeightedAStar\\MinPriorityQueue.cs",
+              "DocumentMoniker": "C:\\Projects\\GithubRepo\\PathindingBenchmark\\PathfindingBench\\src\\Algorithms\\WeightedAStar\\MinPriorityQueue.cs",
               "RelativeDocumentMoniker": "src\\Algorithms\\WeightedAStar\\MinPriorityQueue.cs",
-              "ToolTip": "C:\\Users\\User\\OneDrive - Eotvos Lorand Tudomanyegyetem Informatikai Kar\\2025_2026_1\\TOSZ\\PathfindingBenchmark\\PathfindingBench\\src\\Algorithms\\WeightedAStar\\MinPriorityQueue.cs",
+              "ToolTip": "C:\\Projects\\GithubRepo\\PathindingBenchmark\\PathfindingBench\\src\\Algorithms\\WeightedAStar\\MinPriorityQueue.cs",
               "RelativeToolTip": "src\\Algorithms\\WeightedAStar\\MinPriorityQueue.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAD4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T11:31:34.07Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-13T11:31:34.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PathfinderConfig.cs",
+              "DocumentMoniker": "C:\\Projects\\GithubRepo\\PathindingBenchmark\\PathfindingBench\\src\\Core\\Models\\PathfinderConfig.cs",
+              "RelativeDocumentMoniker": "src\\Core\\Models\\PathfinderConfig.cs",
+              "ToolTip": "C:\\Projects\\GithubRepo\\PathindingBenchmark\\PathfindingBench\\src\\Core\\Models\\PathfinderConfig.cs",
+              "RelativeToolTip": "src\\Core\\Models\\PathfinderConfig.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T00:51:23.315Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "PathfinderConfig.cs",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive - Eotvos Lorand Tudomanyegyetem Informatikai Kar\\2025_2026_1\\TOSZ\\PathfindingBenchmark\\PathfindingBench\\src\\Core\\Models\\PathfinderConfig.cs",
-              "RelativeDocumentMoniker": "src\\Core\\Models\\PathfinderConfig.cs",
-              "ToolTip": "C:\\Users\\User\\OneDrive - Eotvos Lorand Tudomanyegyetem Informatikai Kar\\2025_2026_1\\TOSZ\\PathfindingBenchmark\\PathfindingBench\\src\\Core\\Models\\PathfinderConfig.cs",
-              "RelativeToolTip": "src\\Core\\Models\\PathfinderConfig.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T00:51:23.315Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "AlgorithmFactory.cs",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive - Eotvos Lorand Tudomanyegyetem Informatikai Kar\\2025_2026_1\\TOSZ\\PathfindingBenchmark\\PathfindingBench\\Harness\\Algorithms\\AlgorithmFactory.cs",
+              "DocumentMoniker": "C:\\Projects\\GithubRepo\\PathindingBenchmark\\PathfindingBench\\Harness\\Algorithms\\AlgorithmFactory.cs",
               "RelativeDocumentMoniker": "Harness\\Algorithms\\AlgorithmFactory.cs",
-              "ToolTip": "C:\\Users\\User\\OneDrive - Eotvos Lorand Tudomanyegyetem Informatikai Kar\\2025_2026_1\\TOSZ\\PathfindingBenchmark\\PathfindingBench\\Harness\\Algorithms\\AlgorithmFactory.cs",
+              "ToolTip": "C:\\Projects\\GithubRepo\\PathindingBenchmark\\PathfindingBench\\Harness\\Algorithms\\AlgorithmFactory.cs",
               "RelativeToolTip": "Harness\\Algorithms\\AlgorithmFactory.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-15T21:15:15.236Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-15T21:15:15.236Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "AlgorithmKind.cs",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive - Eotvos Lorand Tudomanyegyetem Informatikai Kar\\2025_2026_1\\TOSZ\\PathfindingBenchmark\\PathfindingBench\\Harness\\Algorithms\\AlgorithmKind.cs",
+              "DocumentMoniker": "C:\\Projects\\GithubRepo\\PathindingBenchmark\\PathfindingBench\\Harness\\Algorithms\\AlgorithmKind.cs",
               "RelativeDocumentMoniker": "Harness\\Algorithms\\AlgorithmKind.cs",
-              "ToolTip": "C:\\Users\\User\\OneDrive - Eotvos Lorand Tudomanyegyetem Informatikai Kar\\2025_2026_1\\TOSZ\\PathfindingBenchmark\\PathfindingBench\\Harness\\Algorithms\\AlgorithmKind.cs",
+              "ToolTip": "C:\\Projects\\GithubRepo\\PathindingBenchmark\\PathfindingBench\\Harness\\Algorithms\\AlgorithmKind.cs",
               "RelativeToolTip": "Harness\\Algorithms\\AlgorithmKind.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-15T21:14:57.646Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-15T21:14:57.646Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 23,
               "Title": "BenchmarkResultRow.cs",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive - Eotvos Lorand Tudomanyegyetem Informatikai Kar\\2025_2026_1\\TOSZ\\PathfindingBenchmark\\PathfindingBench\\Harness\\Model\\BenchmarkResultRow.cs",
+              "DocumentMoniker": "C:\\Projects\\GithubRepo\\PathindingBenchmark\\PathfindingBench\\Harness\\Model\\BenchmarkResultRow.cs",
               "RelativeDocumentMoniker": "Harness\\Model\\BenchmarkResultRow.cs",
-              "ToolTip": "C:\\Users\\User\\OneDrive - Eotvos Lorand Tudomanyegyetem Informatikai Kar\\2025_2026_1\\TOSZ\\PathfindingBenchmark\\PathfindingBench\\Harness\\Model\\BenchmarkResultRow.cs",
+              "ToolTip": "C:\\Projects\\GithubRepo\\PathindingBenchmark\\PathfindingBench\\Harness\\Model\\BenchmarkResultRow.cs",
               "RelativeToolTip": "Harness\\Model\\BenchmarkResultRow.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-15T21:08:24.449Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-15T21:08:24.449Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 26,
               "Title": "src.csproj",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive - Eotvos Lorand Tudomanyegyetem Informatikai Kar\\2025_2026_1\\TOSZ\\PathfindingBenchmark\\PathfindingBench\\src\\src.csproj",
+              "DocumentMoniker": "C:\\Projects\\GithubRepo\\PathindingBenchmark\\PathfindingBench\\src\\src.csproj",
               "RelativeDocumentMoniker": "src\\src.csproj",
-              "ToolTip": "C:\\Users\\User\\OneDrive - Eotvos Lorand Tudomanyegyetem Informatikai Kar\\2025_2026_1\\TOSZ\\PathfindingBenchmark\\PathfindingBench\\src\\src.csproj",
+              "ToolTip": "C:\\Projects\\GithubRepo\\PathindingBenchmark\\PathfindingBench\\src\\src.csproj",
               "RelativeToolTip": "src\\src.csproj",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAAMAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -423,55 +412,51 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 19,
               "Title": "GridNode.cs",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive - Eotvos Lorand Tudomanyegyetem Informatikai Kar\\2025_2026_1\\TOSZ\\PathfindingBenchmark\\PathfindingBench\\src\\Core\\Grids\\GridNode.cs",
+              "DocumentMoniker": "C:\\Projects\\GithubRepo\\PathindingBenchmark\\PathfindingBench\\src\\Core\\Grids\\GridNode.cs",
               "RelativeDocumentMoniker": "src\\Core\\Grids\\GridNode.cs",
-              "ToolTip": "C:\\Users\\User\\OneDrive - Eotvos Lorand Tudomanyegyetem Informatikai Kar\\2025_2026_1\\TOSZ\\PathfindingBenchmark\\PathfindingBench\\src\\Core\\Grids\\GridNode.cs",
+              "ToolTip": "C:\\Projects\\GithubRepo\\PathindingBenchmark\\PathfindingBench\\src\\Core\\Grids\\GridNode.cs",
               "RelativeToolTip": "src\\Core\\Grids\\GridNode.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T01:04:57.717Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-13T01:04:57.717Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "IGrid.cs",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive - Eotvos Lorand Tudomanyegyetem Informatikai Kar\\2025_2026_1\\TOSZ\\PathfindingBenchmark\\PathfindingBench\\src\\Core\\Interfaces\\IGrid.cs",
+              "DocumentMoniker": "C:\\Projects\\GithubRepo\\PathindingBenchmark\\PathfindingBench\\src\\Core\\Interfaces\\IGrid.cs",
               "RelativeDocumentMoniker": "src\\Core\\Interfaces\\IGrid.cs",
-              "ToolTip": "C:\\Users\\User\\OneDrive - Eotvos Lorand Tudomanyegyetem Informatikai Kar\\2025_2026_1\\TOSZ\\PathfindingBenchmark\\PathfindingBench\\src\\Core\\Interfaces\\IGrid.cs",
+              "ToolTip": "C:\\Projects\\GithubRepo\\PathindingBenchmark\\PathfindingBench\\src\\Core\\Interfaces\\IGrid.cs",
               "RelativeToolTip": "src\\Core\\Interfaces\\IGrid.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T00:36:13.916Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-13T00:36:13.916Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "IPathfinder.cs",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive - Eotvos Lorand Tudomanyegyetem Informatikai Kar\\2025_2026_1\\TOSZ\\PathfindingBenchmark\\PathfindingBench\\src\\Core\\Interfaces\\IPathfinder.cs",
+              "DocumentMoniker": "C:\\Projects\\GithubRepo\\PathindingBenchmark\\PathfindingBench\\src\\Core\\Interfaces\\IPathfinder.cs",
               "RelativeDocumentMoniker": "src\\Core\\Interfaces\\IPathfinder.cs",
-              "ToolTip": "C:\\Users\\User\\OneDrive - Eotvos Lorand Tudomanyegyetem Informatikai Kar\\2025_2026_1\\TOSZ\\PathfindingBenchmark\\PathfindingBench\\src\\Core\\Interfaces\\IPathfinder.cs",
+              "ToolTip": "C:\\Projects\\GithubRepo\\PathindingBenchmark\\PathfindingBench\\src\\Core\\Interfaces\\IPathfinder.cs",
               "RelativeToolTip": "src\\Core\\Interfaces\\IPathfinder.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T00:42:42.433Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-13T00:42:42.433Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "Result.cs",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive - Eotvos Lorand Tudomanyegyetem Informatikai Kar\\2025_2026_1\\TOSZ\\PathfindingBenchmark\\PathfindingBench\\src\\Core\\Models\\Result.cs",
+              "DocumentMoniker": "C:\\Projects\\GithubRepo\\PathindingBenchmark\\PathfindingBench\\src\\Core\\Models\\Result.cs",
               "RelativeDocumentMoniker": "src\\Core\\Models\\Result.cs",
-              "ToolTip": "C:\\Users\\User\\OneDrive - Eotvos Lorand Tudomanyegyetem Informatikai Kar\\2025_2026_1\\TOSZ\\PathfindingBenchmark\\PathfindingBench\\src\\Core\\Models\\Result.cs",
+              "ToolTip": "C:\\Projects\\GithubRepo\\PathindingBenchmark\\PathfindingBench\\src\\Core\\Models\\Result.cs",
               "RelativeToolTip": "src\\Core\\Models\\Result.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T00:43:29.691Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-13T00:43:29.691Z"
             }
           ]
         }

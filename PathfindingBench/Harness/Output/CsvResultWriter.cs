@@ -18,7 +18,6 @@ namespace Harness.Output
             _filePath = filePath ?? throw new ArgumentNullException(nameof(filePath));
             _separator = separator;
 
-            // Ha a fájl még nem létezik vagy üres, akkor a headert majd írni kell.
             _headerWritten = File.Exists(_filePath) && new FileInfo(_filePath).Length > 0;
         }
 
